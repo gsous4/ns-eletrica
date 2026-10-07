@@ -16,6 +16,6 @@ export const SERVICOS = [
   { nome: 'Troca de disjuntores', descricao: 'Disjuntor desarmando ou antigo? Troco com segurança.' },
   { nome: 'Manutenção de quadro', descricao: 'Revisão e organização do quadro de distribuição.' },
   { nome: 'Lâmpadas e fitas de LED', descricao: 'Iluminação nova, fitas de LED e troca de lâmpadas.' },
-  { nome: 'Reparos emergenciais', descricao: 'Curto, falta de energia, cheiro de queimado: chame já.', emergencia: true },
+  { nome: 'Reparos emergenciais', descricao: 'Curto, falta de energia, cheiro de queimado: chame já.' },
   { nome: 'Troca de fiação', descricao: 'Fiação velha ou sobrecarregada substituída por nova.' },
 ]
