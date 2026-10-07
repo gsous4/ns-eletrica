@@ -15,7 +15,7 @@ export default function App() {
         <Sobre />
         <Contato />
       </main>
-      <footer>© NS Elétrica – Instalações elétricas e manutenção</footer>
+      <footer>© NS Elétrica – Instalações elétricas e manutenção · Atendimento em Brasília e Entorno</footer>
       <BotaoFlutuante />
     </>
   )

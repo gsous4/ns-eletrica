@@ -50,3 +50,4 @@ footer{padding:26px 0;color:var(--mute);font-size:14px;text-align:center}
 @media(min-width:800px){.about .wrap{grid-template-columns:340px 1fr;gap:64px}}
 @media(max-width:560px){.svc{flex-wrap:wrap}.svc .go{width:100%;text-align:center}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+.hero .area{color:var(--y);font-weight:600;font-size:20px}

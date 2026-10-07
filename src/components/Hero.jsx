@@ -14,6 +14,7 @@ export default function Hero() {
             <IconeWhatsApp />Chamar no WhatsApp
           </a>
         </p>
+        <p className="area">Atendimento em Brasília e Entorno</p>
       </div>
     </div>
   )
